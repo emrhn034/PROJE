@@ -21,27 +21,55 @@
 🧰 SecureKit, bu üç aracı bir araya getirerek bireysel ve kurumsal kullanıcılar için güçlü, pratik ve genişletilebilir bir güvenlik çözüm seti sunar.
 ---
 
-## Features / *Özellikler*
+🚀 Features / Özellikler /
+🔐 AES-Based File Encryption
+AES Tabanlı Dosya Şifreleme
+Securely encrypts selected files using the AES (Advanced Encryption Standard) algorithm.
+Seçilen dosyaları AES algoritmasıyla güvenli bir şekilde şifreler.
 
-- **Feature 1:** Description of the feature.  
-  *Özellik 1: Özelliğin açıklaması.*
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
+🔓 AES-Based File Decryption
+AES Tabanlı Dosya Şifre Çözme
+Decrypts previously encrypted files using the correct password.
+Daha önce şifrelenmiş dosyaların doğru parola ile şifresini çözer.
+
+💾 Automatic File Backup
+Otomatik Dosya Yedekleme
+Periodically backs up important files to a predefined directory.
+Önemli dosyaları belirlenen bir dizine düzenli olarak yedekler.
+
+📁 Custom Backup Path Support
+Özelleştirilebilir Yedekleme Yolu Desteği
+Users can specify the backup path for storing copies of original files.
+Kullanıcılar yedeklerin saklanacağı dizini belirleyebilir.
+
+⏱️ Configurable Backup Interval
+Yedekleme Aralığı Ayarlanabilir
+The backup system runs on a set interval (e.g., every 60 seconds).
+Yedekleme sistemi belirli aralıklarla (örneğin her 60 saniyede bir) çalışır.
+
+💻 Command-Line Interface
+Komut Satırı Arayüzü
+Simple CLI for selecting files, setting passwords, and initiating operations.
+Dosya seçimi, parola belirleme ve işlemleri başlatmak için basit bir CLI sunar.
+
+🔁 Password Confirmation
+Parola Doğrulama
+Double-entry password confirmation to reduce errors during encryption.
+Şifreleme sırasında hataları azaltmak için iki kez parola girilmesi istenir.
+
+⚙️ Lightweight & Easy to Use
+Hafif ve Kullanımı Kolay
+Minimal dependencies and easy-to-understand Python implementation.
+Minimum bağımlılıklarla yazılmış, kolay anlaşılır Python kod yapısı.
 
 ---
 
-## Team / *Ekip*
+👥 Team / Ekip
+🧑‍💻 2320191067 - Emirhan Aktaş: Project Lead, AES Encryption & Backup System Development
+Proje Lideri, AES Şifreleme ve Yedekleme Sistemi Geliştirici
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
+👨‍💻 2320191079 - Yusuf Çiftçi: Password Security Implementation
+Parola Güvenliği Uygulaması
 
 ---
 
