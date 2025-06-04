@@ -68,10 +68,11 @@ Minimum bağımlılıklarla yazılmış, kolay anlaşılır Python kod yapısı.
 
 🧑‍💻 2320191067 - Emirhan Aktaş: Project Lead, AES Encryption & Backup System Development
 Proje Lideri, AES Şifreleme ve Yedekleme Sistemi Geliştirici
+github/emrhn034
 
 👨‍💻 2320191079 - Yusuf Çiftçi: Password Security Implementation
 Parola Güvenliği Uygulaması
-
+github/Ysftcftcc
 ---
 
 ## Roadmap / *Yol Haritası*
