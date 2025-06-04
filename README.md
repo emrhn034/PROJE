@@ -7,18 +7,17 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# 🛡️ SecureKit
+🛡️ SecureKit
 SecureKit, güvenlik odaklı araçlardan oluşan kapsamlı bir yazılım setidir.
 Bu proje kapsamında geliştirilen üç temel araç şunlardır:
 
-AES_File_Encryptor: Dosyaları AES algoritmasıyla güçlü bir şekilde şifreler.
-parola_guvenligi: Parola güvenlik seviyesi analizleri yapar, zayıf parolaları tespit eder.
-otomatik_yedekleme: Belirlenen klasörleri düzenli olarak yedekler, veri kayıplarını önlemeyi amaçlar.
-SecureKit, bu üç aracı bir araya getirerek hem bireysel hem de kurumsal kullanıcılar için güçlü ve pratik bir güvenlik çözüm seti sunar.
+🗄️ AES_File_Encryptor: Dosyaları AES algoritması ile güçlü bir şekilde şifreler.
 
-A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+🧪 parola_guvenligi: Parolaların güvenlik seviyesini analiz eder, zayıf parolaları tespit eder.
 
+📂 otomatik_yedekleme: Belirlenen klasörleri belirli aralıklarla yedekler, veri kaybına karşı koruma sağlar.
+
+🧰 SecureKit, bu üç aracı bir araya getirerek bireysel ve kurumsal kullanıcılar için güçlü, pratik ve genişletilebilir bir güvenlik çözüm seti sunar.
 ---
 
 ## Features / *Özellikler*
