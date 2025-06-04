@@ -7,8 +7,14 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+# 🛡️ SecureKit
+SecureKit, güvenlik odaklı araçlardan oluşan kapsamlı bir yazılım setidir.
+Bu proje kapsamında geliştirilen üç temel araç şunlardır:
+
+AES_File_Encryptor: Dosyaları AES algoritmasıyla güçlü bir şekilde şifreler.
+parola_guvenligi: Parola güvenlik seviyesi analizleri yapar, zayıf parolaları tespit eder.
+otomatik_yedekleme: Belirlenen klasörleri düzenli olarak yedekler, veri kayıplarını önlemeyi amaçlar.
+SecureKit, bu üç aracı bir araya getirerek hem bireysel hem de kurumsal kullanıcılar için güçlü ve pratik bir güvenlik çözüm seti sunar.
 
 A brief, engaging description of your project.  
 *Projenizin kısa ve ilgi çekici bir açıklaması.*
