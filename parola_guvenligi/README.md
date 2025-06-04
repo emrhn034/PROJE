@@ -79,6 +79,9 @@ pip install -r requirements.txt
 🔐 Güvenlik Notları
 Bu uygulama temel amaçlıdır. Gerçek sistemlerde parola yönetimi için ilave güvenlik önlemleri gerekir.
 
+
+
+
 👨‍💻 Geliştirici
 Bilgi Güvenliği Teknolojisi Öğrencisi
 GitHub: https://github.com/emrhn034
