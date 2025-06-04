@@ -8,8 +8,9 @@
 </div>
 
 🛡️ SecureKit
-SecureKit, güvenlik odaklı araçlardan oluşan kapsamlı bir yazılım setidir.
-Bu proje kapsamında geliştirilen üç temel araç şunlardır:
+
+🔐Güvenlik odaklı araçlardan oluşan kapsamlı bir yazılım setidir. 
+👇Bu proje kapsamında geliştirilen üç temel araç şunlardır:
 
 🗄️ AES_File_Encryptor: Dosyaları AES algoritması ile güçlü bir şekilde şifreler.
 
