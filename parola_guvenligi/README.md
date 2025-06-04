@@ -3,14 +3,14 @@
 Bu Python tabanlı araç, kullanıcıların güçlü parolalar üretmesini, mevcut parolaların güvenliğini analiz etmesini ve parolaları güvenli biçimde saklamasını sağlar.
 
 ---
-## 🎯 Amaç
 
+## 🎯 Amaç
 - 🔒 Kullanıcıların parolalarını güvenli hale getirmek
 - 🔑 Rastgele güçlü şifreler üretmek
 - 🧠 Mevcut şifrelerin gücünü analiz etmek
 - 🧂 Güvenli hash algoritmaları ile şifre saklamak
----
 
+---
 ## ✨ Özellikler
 - 🔢 Güçlü parola üretimi (secrets + string)
 - 📊 Parola analiz (zxcvbn ile tahmini kırılma süresi ve öneriler)
@@ -19,8 +19,9 @@ Bu Python tabanlı araç, kullanıcıların güçlü parolalar üretmesini, mevc
 - ⚙️ Modüler dosya yapısı
 
 ---
-## 📁 Dosya Yapısı
 
+## 📁 Dosya Yapısı
+```bash
 parola_guvenligi/
 ├── main.py # Ana menü ve kullanıcı arayüzü
 ├── parola_analiz.py # Parola güç analizi
@@ -28,11 +29,13 @@ parola_guvenligi/
 ├── hash_yonetimi.py # Hashleme ve doğrulama
 ├── requirements.txt # Gerekli kütüphaneler
 └── README.md # Bu dosya
+
 ---
 
 ## ▶️ Nasıl Kullanılır?
 ### 1️⃣ Adım: Kütüphaneleri Kur
----
+
+```bash
 pip install -r requirements.txt
 2️⃣ Adım: Uygulamayı Başlat
 python main.py
@@ -77,9 +80,7 @@ pip install bcrypt zxcvbn
 Ya da:
 pip install -r requirements.txt
 🔐 Güvenlik Notları
-Bu uygulama temel amaçlıdır. Gerçek sistemlerde parola yönetimi için ilave güvenlik önlemleri gerekir.
-
-
+Bu uygulama temel amaçlıdır. Gerçek sistemlerde parola yönetimi için ilave güvenlik önlemleri gerek
 
 
 👨‍💻 Geliştirici
@@ -89,4 +90,3 @@ GitHub: https://github.com/emrhn034
 👨‍💻 Geliştirici
 Bilgi Güvenliği Teknolojisi Öğrencisi
 https://github.com/Ysftcftcc
---
