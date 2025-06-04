@@ -65,6 +65,7 @@ Minimum bağımlılıklarla yazılmış, kolay anlaşılır Python kod yapısı.
 ---
 
 👥 Team / Ekip
+
 🧑‍💻 2320191067 - Emirhan Aktaş: Project Lead, AES Encryption & Backup System Development
 Proje Lideri, AES Şifreleme ve Yedekleme Sistemi Geliştirici
 
