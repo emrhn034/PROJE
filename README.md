@@ -76,7 +76,7 @@ github/Ysftcftcc
 
 ---
 
-## Roadmap / *Yol Haritası*
+ *Yol Haritası*
 
 See our plans in [ROADMAP.md](ROADMAP.md).  
 *Yolculuğu görmek için [ROADMAP.md](ROADMAP.md) dosyasına göz atın.*
