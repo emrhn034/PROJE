@@ -53,7 +53,5 @@ Parolanızı unutmanız durumunda dosya çözülemez, dikkatli saklayınız.
 Bilgi Güvenliği Teknolojisi Öğrencisi
 GitHub: https://github.com/emrhn034
 
-👨‍💻 Geliştirici
-Bilgi Güvenliği Teknolojisi Öğrencisi
-https://github.com/Ysftcftcc
+
 --
