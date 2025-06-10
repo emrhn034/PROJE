@@ -217,21 +217,6 @@ Licensed under the [MIT License](LICENSE.md).
 
 ---
 
-## Acknowledgements / *Teşekkürler* (Optional)
-
-Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
-
-*Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
-
----
-
-## Contact / *İletişim* (Optional)
-
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
-Found a bug? Open an issue.  
 
 *Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
 
