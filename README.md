@@ -9,7 +9,7 @@
 
 🛡️ SecureKit
 
-Her modülün kendi klasöründe o modüle dair `README.md` ve ilgili dokümantasyon dosyaları bulunmaktadır. Lütfen başlamadan önce bu dosyaları mutlaka inceleyin.**
+📢Her modülün kendi klasöründe o modüle dair `README.md` ve ilgili dokümantasyon dosyaları bulunmaktadır. Lütfen başlamadan önce bu dosyaları mutlaka inceleyin.**
 
 🔐Güvenlik odaklı araçlardan oluşan kapsamlı bir yazılım setidir. 
 👇Bu proje kapsamında geliştirilen üç temel araç şunlardır:
