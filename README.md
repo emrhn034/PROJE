@@ -12,6 +12,8 @@
 🔐Güvenlik odaklı araçlardan oluşan kapsamlı bir yazılım setidir. 
 👇Bu proje kapsamında geliştirilen üç temel araç şunlardır:
 
+🔐Vigenère algoritması, şifreleme işleminde bir anahtar kelime kullanarak metin bazlı çok alfabeli şifreleme sağlar. SecureKit içinde bu algoritma, küçük çaplı ya da eğitsel metin şifreleme senaryoları için örnek olarak eklenmiştir.
+
 🗄️ AES_File_Encryptor: Dosyaları AES algoritması ile güçlü bir şekilde şifreler.
 
 🧪 parola_guvenligi: Parolaların güvenlik seviyesini analiz eder, zayıf parolaları tespit eder.
