@@ -147,34 +147,43 @@ Topluluk katkılarını memnuniyetle karşılıyoruz! Katkıda bulunmak için l�
 
 📌 Steps / Adımlar
 🧑‍💻Kullanıcı: emrhn034
+
 Fork the repository
+
 Click the "Fork" button in the top-right corner of this page to create a copy under your GitHub account.
 
 Clone your fork
 Terminal veya komut satırında aşağıdaki komutu kullanarak kendi kopyanızı bilgisayarınıza indirin:
 git clone git@github.com:emrhn034/emrhn034.github.io.git
+
 Create a new branch
 Yeni bir özellik geliştirmek veya hata düzeltmek için yeni bir dal oluşturun:
 git checkout -b feature/your-feature
+
 Make changes and commit
 Gerekli değişiklikleri yapın ve anlamlı commit mesajlarıyla kaydedin:
 git commit -m "SecurityKit"
+
 Push your changes
 Değişikliklerinizi kendi fork’unuza gönderin
 git push origin feature/your-feature
-🧑‍💻Kullanıcı: emrhn034
+
+🧑‍💻Kullanıcı: ysftcftcc
 Fork the repository
 Click the "Fork" button in the top-right corner of this page to create a copy under your GitHub account.
 
 Clone your fork
 Terminal veya komut satırında aşağıdaki komutu kullanarak kendi kopyanızı bilgisayarınıza indirin:
 git clone git@github.com:ysftcftcc/ysftcftcc.github.io.git
+
 Create a new branch
 Yeni bir özellik geliştirmek veya hata düzeltmek için yeni bir dal oluşturun:
 git checkout -b feature/your-feature
+
 Make changes and commit
 Gerekli değişiklikleri yapın ve anlamlı commit mesajlarıyla kaydedin:
 git commit -m "SecurityKit"
+
 Push your changes
 Değişikliklerinizi kendi fork’unuza gönderin
 git push origin feature/your-feature
