@@ -71,7 +71,7 @@ Proje Lideri, AES Şifreleme ve Yedekleme Sistemi Geliştirici
 github/emrhn034
 
 👨‍💻 2320191079 - Yusuf Çiftçi: Password Security Implementation
-Parola Güvenliği Uygulaması
+Parola Güvenliği Uygulaması & Vigenere Şifreleme
 github/Ysftcftcc
 
 ---
