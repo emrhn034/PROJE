@@ -1,9 +1,11 @@
-Proje Özeti
+ROADMAP.MD: SecureKit – Dosya Şifreleme Aracı
 
 Güvenlik odaklı araçlardan oluşan kapsamlı bir yazılım setidir.
 AES_File_Encryptor: Dosyaları AES algoritması ile güçlü bir şekilde şifreler.
 parola_guvenligi: Parolaların güvenlik seviyesini analiz eder, zayıf parolaları tespit eder.
 otomatik_yedekleme: Belirlenen klasörleri belirli aralıklarla yedekler, veri kaybına karşı koruma sağlar.
+
+
 
 Toplam Süre: 3 gün
 Ekip: 
@@ -45,6 +47,8 @@ README.md yazımı
 Kod içi yorumlar ve açıklamalar
 
 Gerekli modüllerin requirements.txt içine eklenmesi
+
+vigenereşifrelemesi
 
 Örnek kullanım senaryoları
 
