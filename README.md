@@ -80,7 +80,8 @@ github/Ysftcftcc
 
  *Yol Haritası*
 
-See our plans in [ROADMAP.md](ROADMAP.md).  
+ROADMAP.MD: SecureKit – Güvenlik Odaklı Araç Seti
+[ROADMAP.md](ROADMAP.md).  
 *Yolculuğu görmek için [ROADMAP.md](ROADMAP.md) dosyasına göz atın.*
 
 ---
