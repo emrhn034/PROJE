@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/last-commit/emrhn034/SecureKit?style=flat-square&color=ff69b4" alt="Last Commit">
   <img src="https://img.shields.io/github/license/emrhn034/SecureKit?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">  <img src="https://img.shields.io/github/MIT/emrhn034/SecureKit?style=flat-square&color=ff69b4" alt="MIT">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions"> 
 </div>
 
 🛡️ SecureKit
