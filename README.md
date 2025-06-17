@@ -125,13 +125,8 @@ Run the project:
 *Projeyi çalıştırın:*
 
 ```bash
-python main.py --input your_file.pcap --output results.txt
+BÜTÜN PROJELERİMİZİN İCERİSİNDE README DOSYASI BULUNMAKTADIR!
 ```
-
-**Steps**:  
-1. Prepare input data (*explain data needed*).  
-2. Run the script with arguments (*explain key arguments*).  
-3. Check output (*explain where to find results*).  
 
 *Adımlar*:  
 1. Giriş verilerini hazırlayın (*ne tür verilere ihtiyaç duyulduğunu açıklayın*).  
