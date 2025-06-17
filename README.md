@@ -97,43 +97,12 @@ ROADMAP.MD: SecureKit – Güvenlik Odaklı Araç Seti
 | Add More Research       | *Link to your other research files*     | *Description of the research*                  |
 
 ---
-
-## Installation / *Kurulum*
-
-1. **Clone the Repository / *Depoyu Klonlayın***:  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-
-2. **Set Up Virtual Environment / *Sanal Ortam Kurulumu*** (Recommended):  
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install Dependencies / *Bağımlılıkları Yükleyin***:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## Usage / *Kullanım*
-
-Run the project:  
-*Projeyi çalıştırın:*
 
 ```bash
 BÜTÜN PROJELERİMİZİN İCERİSİNDE README DOSYASI BULUNMAKTADIR!
 ```
 
-*Adımlar*:  
-1. Giriş verilerini hazırlayın (*ne tür verilere ihtiyaç duyulduğunu açıklayın*).  
-2. Betiği argümanlarla çalıştırın (*önemli argümanları açıklayın*).  
-3. Çıktıyı kontrol edin (*sonuçları nerede bulacağınızı açıklayın*).
-
----
 
 ## License / *Lisans*
 
