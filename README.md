@@ -93,7 +93,7 @@ ROADMAP.MD: SecureKit – Güvenlik Odaklı Araç Seti
 | Topic / *Başlık*        | Link                                    | Description / *Açıklama*                        |
 |-------------------------|-----------------------------------------|------------------------------------------------|
 | Password Cracking Techniques      | [research/password-cracking.md](research/password-cracking.md) | Çeşitli şifre kırma yöntemleri ve araçlarının keşfi./Exploration of various password cracking methods and tools.  |
-| Example Research Topic  | [researchs/your-research-file.md](researchs/your-research-file.md) | Brief overview of this research. / *Bu araştırmanın kısa bir özeti.* |
+| Cryptography Basics  | [research/cryptography.md](research/cryptography.md) | Kriptografi kavramlarına ve güvenlikteki uygulamalarına giriş. / Introduction to cryptographic concepts and their applications in security. |
 | Add More Research       | *Link to your other research files*     | *Description of the research*                  |
 
 ---
