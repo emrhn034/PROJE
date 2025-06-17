@@ -94,7 +94,7 @@ ROADMAP.MD: SecureKit – Güvenlik Odaklı Araç Seti
 |-------------------------|-----------------------------------------|------------------------------------------------|
 | Password Cracking Techniques      | [research/password-cracking.md](research/password-cracking.md) | Çeşitli şifre kırma yöntemleri ve araçlarının keşfi./Exploration of various password cracking methods and tools.  |
 | Cryptography Basics  | [research/cryptography.md](research/cryptography.md) | Kriptografi kavramlarına ve güvenlikteki uygulamalarına giriş. / Introduction to cryptographic concepts and their applications in security. |
-| Add More Research       | *Link to your other research files*     | *Description of the research*                  |
+| Social Engineering Attacks       | [research/social-engineering.md](research/social-engineering.md)     |Sosyal mühendislik tekniklerinin analizi ve önleme yöntemleri./ Analysis of social engineering techniques and prevention methods.                  |
 
 ---
 ## Usage / *Kullanım*
