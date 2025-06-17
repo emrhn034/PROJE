@@ -109,8 +109,6 @@ BÜTÜN PROJELERİMİZİN İCERİSİNDE README DOSYASI BULUNMAKTADIR!
 Licensed under the [MIT License](LICENSE.md).  
 *MIT Lisansı altında lisanslanmıştır.*
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+*Proje Sorumlusu: [SECUREKIT] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
 
 ---
-
-*Replace placeholders (e.g., YOUR_USERNAME/YOUR_REPO) with your project details.*
