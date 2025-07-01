@@ -74,8 +74,7 @@ Minimum bağımlılıklarla yazılmış, kolay anlaşılır Python kod yapısı.
 Proje Lideri, AES Şifreleme ve Yedekleme Sistemi Geliştirici
 github/emrhn034
 
-👨‍💻 2320191079 - Yusuf Çiftçi: Password Security Implementation
-Parola Güvenliği Uygulaması & Vigenere Şifreleme
+👨‍💻 2320191079 - Yusuf Çiftçi: Vigenere Şifreleme
 github/Ysftcftcc
 
 ---
